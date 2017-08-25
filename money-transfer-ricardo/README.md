@@ -1,5 +1,4 @@
-# money-transfer
-Simple example of Scala power.
+# money-transfer-ricardo
 
 ## How to run
 From source:
